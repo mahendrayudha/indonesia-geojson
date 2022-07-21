@@ -1,9 +1,9 @@
 <h1 align="center">Indonesian Administrative Boundary</h1>
 <h3 align="justify">Administrative boundary in ShapeFile (SHP) and GeoJSON formats.</h3>
 
-- Indonesian administrative boundary
-- Provincial administrative boundaries
-- Regency/City administrative boundaries <b></b>
+- Indonesian administrative boundary <b>GADM v4.0</b>
+- Provincial administrative boundaries <b>GADM v4.0</b>
+- Regency/City administrative boundaries <b>GADM v4.0</b>
 - District administrative boundaries <b>(in progress)</b>
 - Village administrative boundaries <b>(in progress)</b>
 
@@ -14,9 +14,9 @@
 <h1 align="center">Batas Administrasi Indonesia</h1>
 <h3 align="justify">Batas administrasi dalam format ShapeFile (SHP) dan GeoJSON.</h3>
 
-- Batas administrasi Indonesia
-- Batas administrasi Provinsi
-- Batas administrasi Kabupaten/Kota <b>(dalam proses pengerjaan)</b>
+- Batas administrasi Indonesia <b>GADM v4.0</b>
+- Batas administrasi Provinsi <b>GADM v4.0</b>
+- Batas administrasi Kabupaten/Kota <b>GADM v4.0</b>
 - Batas administrasi Kecamatan <b>(dalam proses pengerjaan)</b>
 - Batas administrasi Kelurahan/Desa <b>(dalam proses pengerjaan)</b>
 
