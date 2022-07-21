@@ -3,7 +3,7 @@
 
 - Indonesian administrative boundary
 - Provincial administrative boundaries
-- Regency/City administrative boundaries <b>(in progress)</b>
+- Regency/City administrative boundaries <b></b>
 - District administrative boundaries <b>(in progress)</b>
 - Village administrative boundaries <b>(in progress)</b>
 
